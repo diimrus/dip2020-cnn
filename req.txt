@@ -1,0 +1,6 @@
+#python 64-bit
+tensorflow
+tensorflow-datasets
+keras
+pillow
+matplotlib
